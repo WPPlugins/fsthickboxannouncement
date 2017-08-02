@@ -1,0 +1,72 @@
+/*
+ * faebusoft Admin Styles
+ * Version: 1.1
+ */
+.fs-table {
+	width: 100%;
+	border-spacing: 0px;
+	line-height: 1.3em;
+}
+.fs-table th, 
+.fs-table td {
+	padding: 7px 2px 7px 2px !important;
+	vertical-align: top;
+}
+.fs-table th {
+	font-weight: normal;
+	text-align: left;
+}
+.fs-table th.label {
+	width: 20%;	
+}
+.fs-table .c {
+	text-align: center;
+}
+.fs-table .border td, .fs-table .border th {
+	border-bottom: 1px solid #ccc;
+}
+.fs-table .border-bold td, .fs-table .border-bold th {
+	border-bottom: 1px solid #999;
+}
+.fs-table .bg-r {
+	background-color: #ffeeee;
+}
+
+
+a.fs-dp-clear {
+	background: url('../images/clear.png') no-repeat;
+	height: 16px;
+	padding: 0px;
+	margin: 5px 3px;
+	text-decoration: none;
+	color: #cc0000;
+}
+a.fs-dp-clear span {
+	margin-left: 18px;
+	line-height: 16px;
+	font-size: 6pt;
+	vertical-align: middle;
+}
+ 
+
+a.dp-choose-date {
+	float: left;
+	width: 16px;
+	height: 16px;
+	padding: 0;
+	margin: 5px 3px 0;
+	display: block;
+	text-indent: -2000px;
+	overflow: hidden;
+	background: url(../images/calendar.png) no-repeat; 
+	display: none;
+}
+a.dp-choose-date.dp-disabled {
+	background-position: 0 -20px;
+	cursor: default;
+}
+input.dp-applied {
+	width: 100px;
+	float: left;
+	readonly
+}

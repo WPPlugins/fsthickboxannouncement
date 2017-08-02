@@ -1,0 +1,231 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/fsthickboxannouncement\n"
+"POT-Creation-Date: 2009-09-07 20:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: fsThickboxAnnouncement.php:226
+msgid "TB Announcement"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:227
+msgid "Thickbox Announcement"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:263
+msgid "Cookie could not be regenrated due a communication error"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:282
+msgid ""
+"Your thickbox announcement is modal, but you have not choosen a close "
+"object. If you haven\\'t implemented it by yourself, you will not be able to "
+"close the announcement. Continue?"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:343
+msgid "Settings"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:372
+msgid "Save"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:406
+msgid "Cookie successfully re-generated"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:596
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:599
+msgid "Internal content page is missing and has been recreated"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:605
+msgid "Thickbox Announcement Settings"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:611
+msgid "Global Setting"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:613
+msgid "Announcements active"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:614
+msgid "Valid from"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:620 fsThickboxAnnouncement.php:628
+msgid "Clear date"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:621 fsThickboxAnnouncement.php:629
+msgid ""
+"Click in the input field to choose a date. Leave empty if no date vailidity "
+"needed."
+msgstr ""
+
+#: fsThickboxAnnouncement.php:622
+msgid "Valid to"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:633
+msgid "Announcement Behaviour"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:635
+msgid "Announcement Settings"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:637
+msgid "Show when user enters"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:638
+msgid "Homepage"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:639
+msgid "Any page"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:644
+msgid "Show announcement"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:645
+msgid "once"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:646
+msgid "every time the user enters the site"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:647
+msgid "periodically"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:648
+msgid ""
+"if you choose \"once\" and you setup a new announcement, which has to be "
+"displayed again for every user, please"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:649
+msgid "reset the cookie string"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:655
+msgid "Show announcement every"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:655
+msgid "day(s)"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:661
+msgid "Thickbox Settings"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:663
+msgid "Title"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:664
+msgid "Width"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:665
+msgid "Height"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:667
+msgid "Modal"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:668
+msgid "Close button/link needed and no title is displayed!"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:672
+msgid "Announcement Content"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:674
+msgid "Content"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:676
+msgid "External Resource"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:680
+msgid "Inline Content"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:680
+msgid "Edit now"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:683
+msgid "Close object"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:686
+msgid "None"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:688
+msgid "Button"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:690
+msgid "Link"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:694
+msgid "Label"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:702
+msgid "Save Changes"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:703
+msgid "Preview"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:718
+msgid "About"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:719
+msgid "For further information please visit the"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:719
+msgid "plugin homepage"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:722
+msgid "Donation"
+msgstr ""
+
+#: fsThickboxAnnouncement.php:723
+msgid "If you like my work please consider a small donation"
+msgstr ""
